@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm Diego 👋<br/> I'm currently a Back-end JavaScript student</h1>
+<h1 align="center">Hi I'm Diego 👋<br/> I'm currently a JavaScript Developer student</h1>
 
 <br/>
 
@@ -35,15 +35,14 @@ Lover of evolution through research and experiences, passionate about how techno
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30">&nbsp;&nbsp;
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30">&nbsp;&nbsp;
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30">&nbsp;&nbsp;
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30">&nbsp;&nbsp;
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30">&nbsp;&nbsp;  
 <br/>
   </div>
 
 ## 🤔 What i'm interested
   <div align="center">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30">&nbsp;&nbsp;
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30">&nbsp;&nbsp;
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30">&nbsp;&nbsp;
   </div>
